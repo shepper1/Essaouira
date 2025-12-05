@@ -1,0 +1,540 @@
+{
+  "pays": "Maroc",
+  "drapeau": "🇲🇦",
+  "symbole": "⛵",
+  "titre": "L'Échappée Atlantique d'Essaouira",
+  "budget_total": "3000€",
+  "duree": "19 jours",
+  "date_debut": "2025-12-05",
+  "date_fin": "2025-12-23",
+  "temps_vol": "5h (escale comprise)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Essaouira",
+      "legende": "Après votre vol, laissez-vous porter par l'ambiance sereine d'Essaouira. Cette première journée est dédiée à une installation paisible et une première immersion olfactive et visuelle le long des remparts, offrant un panorama imprenable sur l'océan Atlantique au coucher du soleil. Prenez le temps de vous imprégner de l'air marin et de la lumière unique de la ville.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🛬 <strong>Arrivée et installation</strong>: Prenez vos marques dans votre riad de charme, un havre de paix au cœur de la médina. L'accueil chaleureux marocain vous mettra immédiatement à l'aise.",
+        "🚶‍♂️ <strong>Première balade sur les remparts</strong>: Flânez le long des fortifications portugaises, respirez l'air iodé et admirez les vagues s'écraser. C'est le spot idéal pour un premier aperçu de la ville et de son histoire maritime."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Organisez votre transfert depuis l'aéroport d'Essaouira (ESU) ou Marrakech (RAK) à l'avance pour une arrivée sans stress. Les taxis sont nombreux et fiables."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Conseil du soir",
+          "texte": "Dînez dans un petit restaurant de la médina pour goûter aux saveurs locales, comme une tajine de poisson frais, en évitant les lieux trop touristiques."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": " labyrinth",
+      "titre": "Immersion au cœur de la Médina",
+      "legende": "Plongez dans le dédale fascinant de la médina d'Essaouira, classée au patrimoine mondial de l'UNESCO. Laissez-vous guider par les ruelles animées, les effluves d'épices et le chant des mouettes. Chaque coin de rue révèle une nouvelle surprise, entre artisans, galeries d'art et places vibrantes. C'est une journée pour s'y perdre volontairement et découvrir son âme.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🚶‍♀️ <strong>Exploration des souks</strong>: Perdez-vous dans les souks colorés, où les artisans du bois de thuya, les bijoutiers et les marchands d'épices vous invitent à la découverte. N'hésitez pas à marchander avec le sourire.",
+        "🏛️ <strong>Place Moulay Hassan et ses cafés</strong>: Détendez-vous sur cette place centrale, cœur battant de la ville, en sirotant un thé à la menthe. Observez le ballet incessant des passants et l'animation locale."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🤝",
+          "titre": "Art du marchandage",
+          "texte": "Le marchandage fait partie intégrante de l'expérience des souks. Abordez-le comme un échange convivial, pas une confrontation. Commencez par proposer la moitié du prix initial."
+        },
+        {
+          "symbole": "🗺️",
+          "titre": "Orientation",
+          "texte": "La médina est petite et facile à naviguer. Si vous vous perdez, demandez votre chemin, les habitants sont très serviables. Un plan peut être utile au début."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎣",
+      "titre": "Le Port et l'âme maritime",
+      "legende": "Aujourd'hui, l'accent est mis sur l'héritage maritime d'Essaouira. Le port, avec ses barques bleues emblématiques, est un spectacle vivant et authentique. Observez le retour des pêcheurs, l'animation des criées et l'effervescence qui y règne. Les mouettes planent au-dessus, et l'odeur du poisson grillé embaume l'air, offrant une immersion totale dans la vie locale.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🐟 <strong>Visite du port de pêche</strong>: Assistez au spectacle quotidien du retour des barques bleues et de la criée animée. C'est une expérience sensorielle unique, pleine de vie et d'authenticité.",
+        "🏰 <strong>Montée à la Skala du Port</strong>: Gravissez les remparts de la Skala pour une vue panoramique imprenable sur le port, la médina et l'océan. Les canons anciens ajoutent une touche historique à ce paysage magnifique."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Dégustation de fruits de mer",
+          "texte": "Au port, de nombreux petits stands proposent du poisson et des fruits de mer fraîchement pêchés, grillés sur place. Choisissez votre poisson et savourez-le les pieds presque dans l'eau."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Le port est un paradis pour les photographes, avec ses couleurs vives et son animation constante. Demandez toujours la permission avant de photographier les personnes."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏖️",
+      "titre": "Détente et balade sur la plage",
+      "legende": "Profitez de la vaste plage d'Essaouira, un espace idéal pour la détente et les activités douces. Que ce soit pour une longue marche vivifiante, une séance de bronzage ou simplement pour observer les kitesurfeurs, la plage offre une atmosphère apaisante. Laissez le vent de l'Atlantique caresser votre visage et le sable fin glisser entre vos orteils. C'est une journée pour se ressourcer au rythme des vagues.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🚶‍♀️ <strong>Grande balade sur la plage</strong>: Marchez le long de l'immense plage d'Essaouira, appréciant la brise marine et la vue sur l'île de Mogador. C'est parfait pour se vider l'esprit.",
+        "🐪 <strong>Balade à dos de dromadaire</strong>: Offrez-vous une expérience mémorable avec une balade à dos de dromadaire sur le sable. C'est une façon originale de découvrir le littoral, surtout au coucher du soleil."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🌬️",
+          "titre": "Le vent d'Essaouira",
+          "texte": "Essaouira est surnommée la 'ville des vents' (Mogador). Le vent est souvent présent, idéal pour les sports nautiques, mais prévoyez un foulard ou un chapeau pour vous protéger."
+        },
+        {
+          "symbole": "☀️",
+          "titre": "Protection solaire",
+          "texte": "Même en décembre, le soleil peut être fort. Appliquez de la crème solaire et portez des lunettes de soleil, surtout sur la plage."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🎨",
+      "titre": "Artisanat et saveurs locales",
+      "legende": "Cette journée est dédiée à la découverte de l'artisanat souiri et des délices culinaires locaux. Explorez les coopératives d'huile d'argan pour comprendre ses bienfaits et son processus de fabrication ancestral. Flânez ensuite dans les galeries d'art qui foisonnent dans la médina, témoignant de la richesse créative de la ville. Terminez par une immersion gustative, explorant les saveurs authentiques du Maroc.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🌰 <strong>Visite d'une coopérative d'huile d'argan</strong>: Découvrez les secrets de l'huile d'argan, de la noix à l'huile précieuse, et ses multiples usages cosmétiques et culinaires. C'est une immersion dans un savoir-faire ancestral.",
+        "🖼️ <strong>Exploration des galeries d'art</strong>: Essaouira est un foyer artistique. Poussez les portes des nombreuses galeries de la médina pour admirer les œuvres d'artistes locaux, souvent inspirées par la culture Gnawa et l'océan."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "L'huile d'argan pure est un excellent souvenir ou cadeau. Assurez-vous d'acheter dans des coopératives certifiées pour garantir l'authenticité et soutenir l'économie locale."
+        },
+        {
+          "symbole": "💬",
+          "titre": "Échanges",
+          "texte": "N'hésitez pas à discuter avec les artisans et artistes. Ils sont souvent ravis de partager leur passion et leur histoire."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🍲",
+      "titre": "Voyage culinaire marocain",
+      "legende": "Aujourd'hui, mettez la main à la pâte et plongez dans les secrets de la cuisine marocaine. Un cours de cuisine vous permettra de maîtriser les épices et les techniques des plats emblématiques. Avant cela, une visite au marché local sera l'occasion de choisir des produits frais et de saison, et de s'imprégner des couleurs et des saveurs du terroir. Une journée gourmande et enrichissante.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🥕 <strong>Visite du marché local</strong>: Accompagnez votre chef pour choisir les ingrédients frais et de saison. C'est une immersion authentique dans la vie quotidienne et les saveurs du Maroc.",
+        "👩‍🍳 <strong>Cours de cuisine marocaine</strong>: Apprenez à préparer un tajine traditionnel ou un couscous savoureux. Vous repartirez avec les secrets des épices et des recettes pour régaler vos proches."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🌶️",
+          "titre": "Épices marocaines",
+          "texte": "La cuisine marocaine est riche en épices. Ne manquez pas de découvrir le Ras el Hanout, un mélange complexe qui donne une saveur unique aux plats."
+        },
+        {
+          "symbole": "😋",
+          "titre": "Goûter local",
+          "texte": "Profitez de l'occasion pour goûter aux pâtisseries marocaines, souvent à base d'amandes et de miel, accompagnées d'un thé à la menthe."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏄",
+      "titre": "Initiation aux sports de glisse",
+      "legende": "Essaouira est réputée pour ses conditions idéales pour les sports nautiques, notamment le surf et le kitesurf. Profitez de cette journée pour vous initier ou perfectionner vos techniques sur les vagues de l'Atlantique. L'énergie de l'océan et l'encadrement professionnel vous garantiront une expérience excitante et mémorable. Une bouffée d'adrénaline et de liberté !",
+      "lieu": "Essaouira",
+      "activites": [
+        "🌊 <strong>Cours d'initiation au surf ou kitesurf</strong>: Prenez une leçon avec une école locale pour apprendre les bases des sports de glisse. Le vent constant et les vagues douces d'Essaouira sont parfaits pour les débutants.",
+        "🍹 <strong>Détente au bord de la plage</strong>: Après l'effort, le réconfort ! Installez-vous dans un café de plage pour siroter une boisson fraîche et admirer les autres surfeurs et kitesurfeurs."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🎒",
+          "titre": "Équipement",
+          "texte": "Les écoles de surf fournissent généralement tout l'équipement nécessaire (planche, combinaison). Pensez à apporter votre maillot de bain et une serviette."
+        },
+        {
+          "symbole": "🗓️",
+          "titre": "Réservation",
+          "texte": "Il est conseillé de réserver votre cours à l'avance, surtout si vous voyagez en haute saison, pour garantir votre place."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🧖‍♀️",
+      "titre": "Bien-être et traditions",
+      "legende": "Offrez-vous une pause régénérante en vous plongeant dans les rituels ancestraux du hammam marocain. C'est une expérience sensorielle et purifiante qui vous laissera détendu et revitalisé. L'après-midi, explorez les ruelles pour dénicher des trésors artisanaux, des objets en bois de thuya aux tapis berbères. Une journée dédiée au bien-être et à la découverte de l'art de vivre souiri.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🧖‍♀️ <strong>Séance de hammam traditionnel</strong>: Laissez-vous envelopper par la vapeur et les soins ancestraux du hammam, incluant gommage au savon noir et enveloppement au ghassoul. Une expérience de purification et de détente profonde.",
+        "🛍️ <strong>Flânerie et shopping artisanal</strong>: Profitez de l'après-midi pour explorer les boutiques d'artisans. Le bois de thuya est une spécialité d'Essaouira, et vous trouverez de magnifiques objets sculptés."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🧼",
+          "titre": "Préparation au hammam",
+          "texte": "Pensez à apporter un maillot de bain ou des sous-vêtements de rechange. Le savon noir et le gant de Kessa sont souvent fournis, mais vous pouvez apporter les vôtres."
+        },
+        {
+          "symbole": "💆‍♀️",
+          "titre": "Massage",
+          "texte": "Beaucoup de hammams proposent des massages à l'huile d'argan après le soin. C'est le complément parfait pour une relaxation totale."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🌴",
+      "titre": "Évasion à Sidi Kaouki",
+      "legende": "Échappez-vous de l'agitation de la ville pour une demi-journée à Sidi Kaouki, un village de pêcheurs et spot de surf réputé, situé à quelques kilomètres au sud d'Essaouira. Profitez de ses plages sauvages et de son atmosphère décontractée. C'est l'occasion de découvrir un autre visage de la côte atlantique marocaine, plus brut et authentique, idéal pour une pause nature et sérénité.",
+      "lieu": "Sidi Kaouki",
+      "activites": [
+        "🚗 <strong>Excursion à Sidi Kaouki</strong>: Prenez un taxi pour ce charmant village côtier. Profitez de ses plages immenses et moins fréquentées, parfaites pour une longue marche ou une baignade.",
+        "🍽️ <strong>Déjeuner les pieds dans le sable</strong>: Dégustez un délicieux déjeuner de poisson frais dans l'un des petits restaurants de plage de Sidi Kaouki, face à l'océan."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🚕",
+          "titre": "Transport",
+          "texte": "Les grands taxis partent de la porte Bab Doukkala à Essaouira et peuvent vous emmener à Sidi Kaouki. Négociez le prix avant de monter."
+        },
+        {
+          "symbole": "🐴",
+          "titre": "Activités à Sidi Kaouki",
+          "texte": "Sidi Kaouki est aussi un excellent endroit pour des balades à cheval ou à dromadaire le long de la plage, avec des paysages magnifiques."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🎶",
+      "titre": "Rythmes Gnawa et culture souiri",
+      "legende": "Plongez dans l'univers envoûtant de la musique Gnawa, un pilier de la culture d'Essaouira. Cette journée est dédiée à la découverte de ses origines, de ses instruments et de son importance spirituelle. Flânez dans les ruelles à la recherche de musiciens ou de boutiques spécialisées. Laissez-vous porter par les rythmes répétitifs et hypnotisants qui résonnent dans la ville, une expérience culturelle profonde et vibrante.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🥁 <strong>Découverte de la musique Gnawa</strong>: Visitez un atelier de fabrication d'instruments Gnawa ou un centre culturel pour comprendre l'histoire et la signification de cette musique spirituelle. C'est une immersion dans l'âme d'Essaouira.",
+        "☕ <strong>Soirée musicale (si possible)</strong>: Cherchez un café ou un riad proposant des sessions de musique Gnawa en soirée. L'ambiance est souvent intime et authentique, une expérience inoubliable."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🎵",
+          "titre": "Festival Gnaoua",
+          "texte": "Essaouira est célèbre pour son Festival Gnaoua et Musiques du Monde, qui a lieu généralement en juin. C'est un événement majeur si vous visitez à cette période."
+        },
+        {
+          "symbole": "📚",
+          "titre": "Approfondir",
+          "texte": "De nombreux livres et documentaires existent sur l'histoire des Gnawa et leur musique. Une lecture préalable peut enrichir votre expérience."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "💨",
+      "titre": "Aventure dans les dunes",
+      "legende": "Après une matinée libre pour vous détendre ou revisiter vos lieux favoris, l'après-midi vous réserve une dose d'aventure. Partez à la découverte des paysages environnants d'Essaouira lors d'une excursion en quad ou à cheval. Traversez les dunes de sable et les forêts d'arganiers, offrant des panoramas spectaculaires et une sensation de liberté. Une journée pour allier exploration et sensations fortes.",
+      "lieu": "Essaouira et environs",
+      "activites": [
+        "🧘‍♀️ <strong>Matinée libre et détente</strong>: Profitez de la matinée pour flâner, faire du shopping, ou simplement vous reposer sur une terrasse ensoleillée. Laissez-vous vivre au rythme souiri.",
+        "🏍️ <strong>Randonnée en quad ou à cheval</strong>: Partez pour une aventure excitante à travers les dunes et la forêt d'arganiers. C'est une façon unique d'explorer les paysages côtiers et l'arrière-pays d'Essaouira."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "⛑️",
+          "titre": "Sécurité",
+          "texte": "Choisissez toujours un prestataire fiable et réputé pour les activités comme le quad ou l'équitation. Assurez-vous que l'équipement est en bon état et que les guides sont expérimentés."
+        },
+        {
+          "symbole": "👖",
+          "titre": "Tenue",
+          "texte": "Prévoyez des vêtements confortables et fermés, ainsi que des chaussures adaptées pour le quad ou l'équitation. Un foulard peut être utile pour se protéger du sable et du vent."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🕍",
+      "titre": "Histoire et patrimoine du Mellah",
+      "legende": "Explorez le Mellah, l'ancien quartier juif d'Essaouira, un témoignage émouvant de la diversité culturelle et religieuse de la ville. Découvrez ses synagogues discrètes, ses ruelles étroites et son histoire riche, qui a longtemps coexisté avec la culture musulmane. Cette promenade offre une perspective unique sur le passé d'Essaouira et son rôle de carrefour des civilisations. Une journée pour l'histoire et la mémoire.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🚶‍♂️ <strong>Visite du Mellah</strong>: Plongez dans l'histoire de la communauté juive d'Essaouira en explorant les ruelles de l'ancien quartier. Découvrez la synagogue Slat Lkahal et l'atmosphère particulière de ce lieu chargé d'histoire.",
+        "📜 <strong>Découverte du patrimoine architectural</strong>: Observez les détails architecturaux spécifiques du Mellah, comme les balcons en bois et les portes ornées, qui racontent des siècles de coexistence et d'échanges culturels."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "📖",
+          "titre": "Contexte historique",
+          "texte": "Essaouira a été un important centre commercial et culturel où les communautés musulmane et juive ont prospéré ensemble pendant des siècles. Le Mellah en est un vibrant témoignage."
+        },
+        {
+          "symbole": "🙏",
+          "titre": "Respect",
+          "texte": "Lors de votre visite, faites preuve de respect envers les lieux de culte et les habitants. Adoptez une tenue discrète et soyez attentif à l'environnement."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🪵",
+      "titre": "Rencontre avec l'art du Thuya",
+      "legende": "Aujourd'hui, plongez au cœur de l'artisanat emblématique d'Essaouira : le travail du bois de thuya. Visitez des ateliers pour observer les maîtres artisans transformer ce bois précieux en objets d'art, de la petite boîte incrustée aux meubles sophistiqués. L'odeur du bois et le son des outils vous transporteront dans un univers de savoir-faire ancestral. Une journée pour apprécier la beauté du geste et l'ingéniosité humaine.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🌳 <strong>Visite d'ateliers de bois de thuya</strong>: Rencontrez les artisans qui sculptent le bois de thuya, une essence locale précieuse. Observez leur dextérité et la finesse de leur travail, souvent incrusté de nacre ou de citronnier.",
+        "🛍️ <strong>Trouvailles uniques</strong>: Profitez-en pour dénicher des pièces uniques, des boîtes à bijoux aux plateaux, qui feront des souvenirs authentiques et élégants de votre voyage."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Le bois de Thuya",
+          "texte": "Le thuya est un arbre endémique du Maroc. Son bois est réputé pour sa beauté, son parfum et sa résistance. Les racines sont particulièrement prisées pour leur grain unique."
+        },
+        {
+          "symbole": "🌍",
+          "titre": "Artisanat durable",
+          "texte": "De nombreux artisans d'Essaouira s'engagent dans des pratiques durables, en utilisant des bois issus de forêts gérées et en valorisant le savoir-faire local."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🌅",
+      "titre": "Coucher de soleil sur l'Atlantique",
+      "legende": "Après une matinée dédiée à la flânerie ou à des activités douces, préparez-vous à vivre un moment magique. Essaouira est célèbre pour ses couchers de soleil spectaculaires sur l'océan Atlantique. Installez-vous sur une terrasse de café ou sur les remparts pour admirer le ciel se parer de couleurs flamboyantes. Un spectacle inoubliable qui marque la fin d'une journée et l'apogée de la beauté naturelle de la ville.",
+      "lieu": "Essaouira",
+      "activites": [
+        "☕ <strong>Matinée libre et café culture</strong>: Prenez le temps de savourer un café marocain dans un des nombreux établissements de la médina. Observez la vie locale et laissez-vous imprégner de l'ambiance.",
+        "🌇 <strong>Apéritif et coucher de soleil</strong>: Trouvez un rooftop avec vue sur l'océan ou un spot sur les remparts pour admirer le soleil se fondre dans l'Atlantique. C'est un moment de pure contemplation, souvent accompagné d'un thé à la menthe."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Meilleurs spots",
+          "texte": "Les remparts de la Skala de la Kasbah, la terrasse d'un riad avec vue sur mer, ou même la plage sont d'excellents points d'observation pour le coucher de soleil."
+        },
+        {
+          "symbole": "🥂",
+          "titre": "Boissons",
+          "texte": "Certains établissements proposent des boissons alcoolisées, mais le thé à la menthe ou les jus de fruits frais sont des options délicieuses et rafraîchissantes."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🚶‍♀️",
+      "titre": "Flânerie et découvertes impromptues",
+      "legende": "Aujourd'hui, laissez-vous porter par l'inspiration du moment. Essaouira se prête merveilleusement aux découvertes impromptues, aux rencontres inattendues et aux moments de pure flânerie. Explorez des ruelles que vous n'aviez pas encore empruntées, découvrez une petite galerie cachée ou un café discret. C'est une journée pour savourer la liberté et la spontanéité, et pour se laisser surprendre par la magie de la ville. Une parenthèse enchantée.",
+      "lieu": "Essaouira",
+      "activites": [
+        " labyrinth <strong>Exploration des ruelles secrètes</strong>: Éloignez-vous des axes principaux et perdez-vous volontairement dans les ruelles moins fréquentées de la médina. Vous y découvrirez des portes colorées, des chats endormis et une atmosphère paisible.",
+        "🎨 <strong>Visite d'une galerie d'art cachée</strong>: Essaouira regorge de petites galeries d'art indépendantes. Poussez les portes, discutez avec les artistes et laissez-vous inspirer par leurs créations uniques."
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "🐈",
+          "titre": "Les chats d'Essaouira",
+          "texte": "La ville est peuplée de nombreux chats, faisant partie intégrante du paysage. Ils sont souvent amicaux et ajoutent au charme de la médina."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Chaussures confortables",
+          "texte": "Prévoyez des chaussures confortables pour marcher sur les pavés inégaux de la médina. Vous passerez beaucoup de temps à explorer à pied."
+        }
+      ]
+    },
+    {
+      "jour": 16,
+      "symbole": "🧘‍♀️",
+      "titre": "Harmonie corps et esprit",
+      "legende": "Après plusieurs jours d'exploration, cette journée est consacrée à l'équilibre et au bien-être. Participez à une séance de yoga face à l'océan ou sur une terrasse ensoleillée, pour reconnecter avec votre corps et votre esprit. L'après-midi, accordez-vous un moment de lecture ou de méditation dans un cadre paisible. Une parenthèse de sérénité pour recharger vos batteries et profiter pleinement de l'atmosphère apaisante d'Essaouira.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🧘‍♀️ <strong>Séance de yoga ou méditation</strong>: De nombreux riads et centres proposent des cours de yoga. C'est une excellente façon de commencer la journée, face à l'océan ou sur un rooftop paisible.",
+        "📚 <strong>Moment de lecture et de contemplation</strong>: Installez-vous dans un café tranquille ou sur la terrasse de votre hébergement avec un bon livre. Laissez le temps s'écouler doucement, bercé par le bruit des vagues."
+      ],
+      "illustration": "jour16.jpg",
+      "encarts": [
+        {
+          "symbole": "🧘‍♂️",
+          "titre": "Cours de yoga",
+          "texte": "Renseignez-vous auprès de votre hébergement ou des centres de bien-être locaux pour trouver des cours adaptés à votre niveau. Certains proposent des cours en plein air."
+        },
+        {
+          "symbole": "🍵",
+          "titre": "Pause bien-être",
+          "texte": "Accompagnez votre moment de détente d'un thé aux herbes locales ou d'un jus de fruits frais, pour une hydratation et un bien-être optimaux."
+        }
+      ]
+    },
+    {
+      "jour": 17,
+      "symbole": "🎁",
+      "titre": "Derniers trésors et saveurs",
+      "legende": "Alors que le voyage touche à sa fin, cette journée est l'occasion de finaliser vos achats de souvenirs et de savourer une dernière fois les délices culinaires d'Essaouira. Revisitez vos souks préférés pour les derniers cadeaux, ou découvrez de nouvelles boutiques. Le soir, offrez-vous un dîner mémorable, pour graver les saveurs et les ambiances de la ville dans votre mémoire. Une journée pour chérir les derniers instants.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🛍️ <strong>Dernière session de shopping</strong>: Profitez de cette journée pour acheter les derniers souvenirs ou cadeaux. Les épices, la poterie, le cuir et les bijoux sont d'excellentes options.",
+        "🍽️ <strong>Dîner d'adieu gourmand</strong>: Choisissez un restaurant réputé pour un dîner spécial. Goûtez des plats que vous n'avez pas encore essayés ou revisitez un favori pour terminer votre séjour en beauté."
+      ],
+      "illustration": "jour17.jpg",
+      "encarts": [
+        {
+          "symbole": "📦",
+          "titre": "Bagages",
+          "texte": "Pensez au poids et au volume de vos achats pour vos bagages. Certains articles, comme les grands objets en thuya, peuvent nécessiter un emballage spécial."
+        },
+        {
+          "symbole": "💳",
+          "titre": "Paiement",
+          "texte": "La plupart des commerçants acceptent le paiement en dirhams. Les cartes de crédit sont acceptées dans les plus grands magasins et restaurants, mais ayez toujours un peu de liquide sur vous."
+        }
+      ]
+    },
+    {
+      "jour": 18,
+      "symbole": "🌊",
+      "titre": "Douceur de l'océan et adieux",
+      "legende": "Profitez d'une dernière matinée paisible au bord de l'océan. Que ce soit pour une ultime balade sur la plage, un café avec vue sur mer ou simplement pour écouter le bruit des vagues, savourez ces instants précieux. L'après-midi, préparez tranquillement votre départ, en vous remémorant les moments forts de votre séjour. Une journée pour dire au revoir à Essaouira, le cœur rempli de souvenirs.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🏖️ <strong>Ultime balade sur la plage</strong>: Profitez des derniers instants pour une marche méditative le long de la plage, collectant peut-être quelques coquillages ou simplement en admirant le paysage.",
+        "☕ <strong>Dernier thé à la menthe avec vue</strong>: Installez-vous dans un café en bord de mer ou sur une terrasse panoramique pour un dernier thé à la menthe, imprégné de l'atmosphère unique d'Essaouira."
+      ],
+      "illustration": "jour18.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Confirmation vol",
+          "texte": "Vérifiez les horaires de votre vol retour et confirmez votre transfert vers l'aéroport pour le lendemain. Anticipez tout imprévu."
+        },
+        {
+          "symbole": "💖",
+          "titre": "Souvenirs",
+          "texte": "Prenez le temps de trier vos photos et de noter vos impressions. Les souvenirs d'Essaouira resteront gravés longtemps."
+        }
+      ]
+    },
+    {
+      "jour": 19,
+      "symbole": "🛫",
+      "titre": "Départ d'Essaouira",
+      "legende": "C'est le moment de quitter Essaouira, la ville des alizés et des artistes. Après un dernier petit-déjeuner marocain, vous prendrez la route vers l'aéroport. Emportez avec vous les couleurs, les sons et les saveurs de cette ville unique, ainsi que la douceur de vivre qui y règne. Votre esprit sera sûrement déjà en train de planifier un prochain retour dans la perle de l'Atlantique.",
+      "lieu": "Essaouira",
+      "activites": [
+        "🥐 <strong>Petit-déjeuner marocain</strong>: Savourez un dernier petit-déjeuner avec msemen, harcha et thé à la menthe, avant de vous préparer pour le départ.",
+        "🛫 <strong>Transfert vers l'aéroport</strong>: Un taxi vous conduira à l'aéroport d'Essaouira (ESU) ou Marrakech (RAK) pour votre vol retour, la tête pleine de merveilleux souvenirs."
+      ],
+      "illustration": "jour19.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Prévoyez suffisamment de temps pour le transfert et les formalités à l'aéroport, surtout si votre vol est tôt le matin ou si vous partez de Marrakech."
+        },
+        {
+          "symbole": "👋",
+          "titre": "Au revoir",
+          "texte": "N'oubliez pas de saluer vos hôtes et les personnes qui ont rendu votre séjour agréable. Un petit pourboire est toujours apprécié."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "400€/pers (Vol A/R Paris-Essaouira, avec escale)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "250€/pers (Transferts aéroport, taxis locaux, excursion Sidi Kaouki)",
+      "symbole": "🚕"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "760€/pers (Moyenne de 40€/jour pour 19 jours, restaurants locaux et quelques repas plus élaborés)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "1170€/pers (Moyenne de 65€/nuit pour 18 nuits en riad de charme ou hôtel 3-4*)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "420€/pers (Cours de surf, hammam, cours de cuisine, balade à cheval/quad, entrées musées/galeries, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'avril-mai et septembre-octobre pour des températures douces et moins de vent. Décembre offre un climat agréable et moins de foule.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "En décembre, les températures à Essaouira varient entre 12 et 20°C. Les journées sont ensoleillées mais les soirées peuvent être fraîches. Prévoir des couches de vêtements.",
+      "symbole": "🧣"
+    },
+    {
+      "titre": "La monnaie est le Dirham marocain (MAD). Les cartes bancaires sont acceptées dans les grands établissements, mais prévoyez du liquide pour les petits commerces et les taxis.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le français est largement parlé en plus de l'arabe et du berbère. Quelques mots d'arabe (Salam Alaikum, Choukran) sont toujours appréciés.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Respectez les coutumes locales : habillez-vous modestement, surtout en dehors des zones touristiques, et demandez la permission avant de prendre des photos de personnes.",
+      "symbole": "🕌"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles sur le Maroc",
+      "titre": "Visit Morocco",
+      "url": "https://www.visitmorocco.com/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo détaillées pour Essaouira",
+      "titre": "Météo Maroc",
+      "url": "https://www.meteomaroc.com/essaouira/",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur le Festival Gnaoua et Musiques du Monde",
+      "titre": "Festival Gnaoua",
+      "url": "https://www.festival-gnaoua.net/",
+      "symbole": "🎶"
+    }
+  ]
+}
